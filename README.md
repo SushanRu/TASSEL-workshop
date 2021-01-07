@@ -9,7 +9,7 @@ Dr. Sushan Ru
 # Description
 This half-day workshop aims to cover some common features of the TASSEL software. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, GWAS analysis.
 
-Prior to the workshop, please install TASSEL v5.0 at https://www.maizegenetics.net/tassel and download sample data from the sampleData folder.
+Prior to the workshop, please install TASSEL v5.0 at https://www.maizegenetics.net/tassel and download sample data from the SampleData folder.
 
 # schedule
 January 14th via Zoom:  
