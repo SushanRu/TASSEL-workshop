@@ -3,9 +3,7 @@ Hosted by the University of Minnesota Plant Breeding Center
 Date: January 14, 2021
 
 Intructors:
-
 Dr. Parbin Bajgain
-
 Dr. Sushan Ru
 
 # Description
