@@ -1,11 +1,15 @@
-# TASSEL workshop hosted by the University of Minnesota Plant Breeding Center
+# TASSEL workshop 
+Hosted by the University of Minnesota Plant Breeding Center
 Date: January 14, 2021
+
 Intructors:
+
 Dr. Parbin Bajgain
+
 Dr. Sushan Ru
 
 # Description
-This half-day workshop aims to cover some major functions of TASSEL 5.0. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, GWAS analysis.
+This half-day workshop aims to cover some common features of the TASSEL software. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, GWAS analysis.
 
 # schedule
 January 14th via Zoom:
