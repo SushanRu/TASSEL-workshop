@@ -3,8 +3,8 @@ Hosted by the University of Minnesota Plant Breeding Center
 Date: January 14, 2021
 
 Intructors:  
-Dr. Parbin Bajgain  
-Dr. Sushan Ru  
+Dr. Prabin Bajgain  Email: bajga002@umn.edu   
+Dr. Sushan Ru Email: sru@umn.edu   
 
 # Description
 This half-day workshop aims to cover some common features of the TASSEL software. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, GWAS analysis.
