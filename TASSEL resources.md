@@ -1,4 +1,4 @@
-#TASSEL resources
+# TASSEL resources
 
 Homepage for software download: https://www.maizegenetics.net/tassel
 
