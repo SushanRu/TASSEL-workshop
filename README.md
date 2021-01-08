@@ -1,5 +1,5 @@
 # TASSEL workshop 
-Hosted by the University of Minnesota Plant Breeding Center
+Hosted by the University of Minnesota Plant Breeding Center  
 Date: January 14, 2021
 
 Intructors:  
