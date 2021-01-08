@@ -7,7 +7,7 @@ Dr. Prabin Bajgain  Email: bajga002@umn.edu
 Dr. Sushan Ru Email: sru@umn.edu   
 
 # Description
-This half-day workshop aims to cover some common features of the TASSEL software. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, GWAS analysis.
+This half-day workshop aims to cover some common features of the TASSEL software. We will give an overview of TASSEL functions and then dive deeper into file format conversion, genotype imputation and LD, PCA, Kinship, and GWAS analysis.
 
 Prior to the workshop, please install TASSEL v5.0 at https://www.maizegenetics.net/tassel and download sample data from the SampleData folder.
 
