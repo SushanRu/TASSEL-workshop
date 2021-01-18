@@ -18,3 +18,6 @@ January 14th via Zoom:
 9:30am - 9:45am: Break  
 9:45am - 11:30am: LD, PCA, Kinship, GWAS*   
 11:30am - 12:00pm: Questions & Wrap-up  
+
+# Video recording
+https://umn.zoom.us/rec/play/uAgnjVj3kci_eIKN7foZfe1rhRCU4Cd9YZ232H64WdcJNv7zeWbFct73Z1PC5gqX_lCi2fcYihSp1j2A.0QBqZHFcw8UvWTKD?continueMode=true&_x_zm_rtaid=LMapnmjFTaK2KFTCjiso4A.1610994892983.82d80af1ff095a40b79e141ce6b7f5b0&_x_zm_rhtaid=375
